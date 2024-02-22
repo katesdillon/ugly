@@ -1,0 +1,18 @@
+body{
+    background-image: url(../img/donfrancisco.png);
+    background-size: cover;
+    color: coral;
+}
+
+h1{
+    color: olive;
+    background-color: olivedrab;
+    width: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: rgb(242, 255, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
